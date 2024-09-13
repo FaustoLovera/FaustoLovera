@@ -17,13 +17,15 @@
 
 <li><b>🙍🏼‍♂️  Name:</b> Fausto</li>
 
-<li><b>🥳  Date of Birth:</b> September 17, 2005</li>
+<li><b>🥳  Date of Birth:</b> September 17</li>
 
-<li><b>🌎  Place of Birth:</b> Buenos Aires, Argentina</li>
+<li><b>👴🏻  Age: 18</b></li>
+
+<li><b>🌎  City:</b> Ciuadad Autónoma de Buenos Aires</li>
 
 <li><b>📚  Education:</b> Currently studying Systems Programming</li>
 
-<li><b>🏫  University:</b> Universidad de Ciencias Empresariales y Sociales(UCES)</li>
+<li><b>🏫  University:</b> Universidad Argentina de la Empresa(UADE)</li>
 
 <h3><b>Interests:</b></h3>
 <li>🫱🏻‍🫲🏽  Passionate about learning and helping others.</li>

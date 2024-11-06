@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,vscode,discord,github,postgres&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,py&perline=14" />
   </a>
 </p>
 <div id="user-content-toc">
